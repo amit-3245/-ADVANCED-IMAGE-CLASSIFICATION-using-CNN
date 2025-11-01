@@ -6,9 +6,6 @@
 This project demonstrates **handwritten digit recognition** using the **MNIST dataset** and a **Convolutional Neural Network (CNN)** built with **TensorFlow & Keras**.  
 It includes full steps — from loading and preprocessing data to training, evaluating, and visualizing model performance.
 
->  Perfect for beginners learning Deep Learning and for showcasing data science portfolio projects.
-
----
 
 #features
 -  Uses the popular MNIST dataset (70,000 grayscale images of digits 0–9)  
